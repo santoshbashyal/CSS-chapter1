@@ -1,0 +1,39 @@
+#first {
+    background-color: aqua;
+}
+
+#second {
+    background-color: rgb(240, 157, 226);
+}
+
+.red {
+    background-color: rgb(240, 29, 29);
+    color: white;
+}
+
+.bg-blue {
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+}
+
+
+/* .border-purple{
+    background-color: brown;
+  } */
+h1 {
+    color: red;
+}
+
+div {
+    background-color: rgb(165, 255, 255);
+}
+#red,h3{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+    color:white; 
+    border:2px solid black;
+
+
+}
